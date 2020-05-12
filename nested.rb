@@ -16,7 +16,7 @@ def hopper
         }
      }
    end
-:grace_hopper{}
+:grace_hopper
 
 end
 
